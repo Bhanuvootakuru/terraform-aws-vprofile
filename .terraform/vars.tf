@@ -30,7 +30,7 @@ variable rmquser {
     default = "rabbit"
     }
 variable rmqpass {
-    default = Vutakuru1234
+    default = "Vutakuru@1234"
     }
 
 variable dbpass {
