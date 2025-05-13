@@ -1,0 +1,16 @@
+# Ignore Terraform directories
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Ignore crash logs
+crash.log
+
+# Ignore sensitive or backup files
+*.backup
+*.log
+*.tfvars
+
+# Ignore system files
+.DS_Store
+Thumbs.db
